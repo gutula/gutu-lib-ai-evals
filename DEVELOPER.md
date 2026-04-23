@@ -35,6 +35,7 @@ Provides evaluation helpers and baseline-oriented utilities that let the surroun
 | Package ID | `ai-evals` |
 | Display Name | AI Evals |
 | Import Name | `@platform/ai-evals` |
+| Canonical Namespace Target | `@gutu/ai-evals` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides evaluation helpers and baseline-oriented utilities that let the surroun
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/ai-evals` |
 
 ### Dependency interpretation
 

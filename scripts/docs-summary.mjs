@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ai-evals",
   "packageId": "ai-evals",
   "displayName": "AI Evals",
+  "packageCount": 1,
   "group": "AI Foundation",
   "maturity": "Hardened",
   "description": "Eval datasets, judges, regression comparison, and release gates for AI runs.",
